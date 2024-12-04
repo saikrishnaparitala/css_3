@@ -1,0 +1,42 @@
+.main {
+    /* border: 3px solid red; */
+    /* height: 400px;
+    width: 600px; */
+    margin: 20px;
+}
+
+.main_1 {
+    /* height: 50px; */
+    /* border: 3px solid red; */
+    text-align: center;
+}
+
+img {
+    margin: 0%;
+    width: 180px;
+    height: 250px;
+    vertical-align: top;
+
+
+
+}
+
+p {
+    margin: 5px;
+    vertical-align: top;
+}
+
+h3 {
+    margin: 0%;
+}
+
+.iteam_1,
+.iteam_2,
+.iteam_3,
+.iteam_4,
+.iteam_5,
+.iteam_6 {
+    display: inline-block;
+    width: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
